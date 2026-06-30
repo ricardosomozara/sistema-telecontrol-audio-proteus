@@ -9,8 +9,8 @@ Este repositorio contiene el diseño, análisis y simulación de un sistema elec
 * [cite_start]**Alimentación del sistema:** Fuente única de 5V [cite: 13]
 
 ## 🛠️ Herramientas y Componentes
-* [cite_start]**Entorno de Simulación:** Labcenter Proteus V8.13 [cite: 110]
-* [cite_start]**Microcontrolador:** Microchip PIC16F887 (Frecuencia de reloj a 4 MHz) [cite: 12, 107]
+* **Entorno de Simulación:** Labcenter Proteus V8.13 [cite: 110]
+* **Microcontrolador:** Microchip PIC16F887 (Frecuencia de reloj a 4 MHz) [cite: 12, 107]
 * [cite_start]**Software de Desarrollo:** MPLAB X IDE & Compilador XC8 [cite: 113]
 * [cite_start]**Topología Analógica:** Filtro Activo Sallen-Key Pasa-Bajas de 2do orden (pendiente de 40 dB/década) [cite: 21]
 
